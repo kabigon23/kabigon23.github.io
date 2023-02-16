@@ -9,6 +9,7 @@ categories: [Book, Linux]
  ![linux just for fun book img](/images/linux-for-fun.jpg)   
  리누스 토발즈, 데이비드 다이아몬드 지음   
  안진환 옮김   
+ 출판사: 한겨레신문사
  [자세히](http://www.yes24.com/Product/Goods/197293)
  
  ---
