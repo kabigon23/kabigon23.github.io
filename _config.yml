@@ -89,8 +89,11 @@ plugins:
 
 include: ['_pages']
 
+futrue: true
+
 paginate: 6
 paginate_path: /page:num/
+published: true
 
 # Exclude these files from your production _site
 exclude:
